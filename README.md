@@ -51,6 +51,11 @@ npm run preview
 - 导出/导入 JSON
 - 清空画布（带确认）
 
+## 示例截图
+![screenshot1](screenshot01.png?raw=true)
+
+![screenshot2](screenshot02.png?raw=true)
+
 ## 快捷键
 
 | 快捷键 | 功能 |
